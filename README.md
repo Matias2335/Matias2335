@@ -12,9 +12,9 @@ Java • PostgreSQL • SQL • Python • MongoDB • Cassandra • JavaScript
 
 ## Estatísticas
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matias2335&theme=dark"/>
+<img src="https://streak-stats.demolab.com?user=Matias2335&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias2335&layout=compact"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matias2335&theme=github_dark"/>
 
 
 
