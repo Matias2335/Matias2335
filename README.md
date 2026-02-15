@@ -1,16 +1,25 @@
-## Hi there 👋
+# Guilherme Matias
 
-<!--
-**Matias2335/Matias2335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação (FEI) | Desenvolvedor Backend
 
-Here are some ideas to get you started:
+## Tecnologias principais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • PostgreSQL • SQL • Python • MongoDB • Cassandra • JavaScript
+
+## Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matias2335&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matias2335&layout=compact&theme=tokyonight)
+
+## Projetos em destaque
+
+- Sistema bancário em Java com PostgreSQL
+- Compilador em Java
+- Integração entre PostgreSQL, MongoDB e Cassandra
+- Aplicativo React Native com Firebase
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/guilherme-matias-25b183236/
+Email: guilhermematias2535@gmail.com
