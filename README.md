@@ -6,7 +6,7 @@ Estudante de Ciência da Computação (FEI) | Desenvolvedor Backend
 
 ## Tecnologias
 
-Java • PostgreSQL • SQL • Python • MongoDB • Cassandra • JavaScript
+Python • PostgreSQL • SQL • C • MongoDB • Cassandra • JavaScript
 
 ---
 
